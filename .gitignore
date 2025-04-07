@@ -1,0 +1,14 @@
+# Ignore dataset folder
+dataset/
+
+# Ignore audio response file
+response.mp3
+
+# Ignore ChromaDB folder
+chroma_db/
+
+# Ignore development directory
+devlopment/
+
+# Ignore forms directory
+forms/

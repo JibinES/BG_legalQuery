@@ -1,0 +1,9 @@
+streamlit
+chromadb
+ollama
+pymupdf  # for fitz
+pytesseract
+Pillow
+sentence-transformers
+torch  # required by sentence-transformers
+numpy  # used internally by several packages
